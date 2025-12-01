@@ -1,0 +1,46 @@
+# General OS
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+
+# Build directories
+/out/
+/target/
+/bin/
+/build/
+/dist/
+
+
+# IDEs
+/.idea/
+*.iml
+/.project
+/.classpath
+/.settings/
+.vscode/
+
+# Logs and temp files
+*.log
+logs/
+*.tmp
+*~
+*.swp
+
+# JDK installed in repo (if any)
+/.jdk/
+
+# Archive and packaged files
+*.jar
+*.war
+*.ear
+
+
+# Node / other tooling (if present)
+/node_modules/
+
+
+# Editors
+.idea/
+.vscode/
