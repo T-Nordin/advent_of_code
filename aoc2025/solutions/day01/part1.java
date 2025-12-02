@@ -4,7 +4,7 @@ import java.util.*;
 
 import aoc2025.tools.*;
 
-public class part1 {
+public class Part1 {
     public static void main(String[] args) {
         List<String> input = InputReader.readLines("aoc2025/inputs/day01/inputPart1.txt");
 
